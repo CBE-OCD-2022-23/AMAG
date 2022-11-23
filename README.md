@@ -1,5 +1,7 @@
 # simple-node-js-react-npm-app
 
+Dokumentacja OCB - https://docs.google.com/document/d/1v_OYCT9CahNVJCn9Ro3qxBpulTkYpFNORlkP49LHgv0/edit#heading=h.ubs9acddd9w0
+
 The repository contains a simple Node.js and React application which generates
 a web page with the content "Welcome to React" and is accompanied by a test to
 check that the application renders satisfactorily.

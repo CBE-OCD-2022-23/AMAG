@@ -1,2 +1,2 @@
 test2 nie mery
-test rule branch
+test PR

@@ -1,2 +1,4 @@
 test2 nie mery
 test rule branch
+
+test PR for nie mery

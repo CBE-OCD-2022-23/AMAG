@@ -12,7 +12,7 @@ class App extends Component {
            na 13.73.148.81:8080  OCB </h1>
         </header>
         <p className="App-intro">
-          elem projektu jest przygotowanie i prezentacja utwardzonego (poprawnie zabezpieczonego) systemu do automatycznego budowania, testowania i wdrażania aplikacji w oparciu o narzędzia Jenkins, Github i Docker.
+          Celem projektu jest przygotowanie i prezentacja utwardzonego (poprawnie zabezpieczonego) systemu do automatycznego budowania, testowania i wdrażania aplikacji w oparciu o narzędzia Jenkins, Github i Docker.
         </p>
       </div>
     );

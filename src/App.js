@@ -12,7 +12,7 @@ class App extends Component {
            na 13.73.148.81:8080  OCB </h1>
         </header>
         <p className="App-intro">
-          To get started, edit <code>src/App.js</code> and save to reload.
+          elem projektu jest przygotowanie i prezentacja utwardzonego (poprawnie zabezpieczonego) systemu do automatycznego budowania, testowania i wdrażania aplikacji w oparciu o narzędzia Jenkins, Github i Docker.
         </p>
       </div>
     );

@@ -8,7 +8,9 @@ class App extends Component {
       <div className="App">
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
-          <h1 className="App-title">Cześć Kocham Pieski 2!!!!!. Ta strona jest uruchamiana przez pipeline jenkinsa
+          <h1 className="App-title">Serwis Kocham Pieski jest aktywny
+           Jest to projekt na 5!
+           Ta strona jest uruchamiana przez pipeline jenkinsa
            na 13.73.148.81:8080  OCB </h1>
         </header>
         <p className="App-intro">
